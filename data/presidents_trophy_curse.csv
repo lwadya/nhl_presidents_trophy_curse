@@ -1,0 +1,577 @@
+PlayoffRank,GP,W,Season,FullName,Abbreviation,SeasonRank
+1,20,15,1985,Montreal Canadiens,MTL,7
+2,22,12,1985,Calgary Flames,CGY,6
+3,19,10,1985,St. Louis Blues,STL,12
+4,16,8,1985,New York Rangers,NYR,13
+5,10,6,1985,Toronto Maple Leafs,TOR,16
+6,10,6,1985,Edmonton Oilers,EDM,1
+7,10,6,1985,Hartford Whalers,HFD,11
+8,9,5,1985,Washington Capitals,WSH,3
+9,5,2,1985,Minnesota North Stars,MNS,10
+10,5,2,1985,Philadelphia Flyers,PHI,2
+11,3,0,1985,Chicago Black Hawks,CHI,8
+12,3,0,1985,Winnipeg Jets,WPG,14
+13,3,0,1985,Vancouver Canucks,VAN,15
+14,3,0,1985,Boston Bruins,BOS,9
+15,3,0,1985,Quebec Nordiques,QUE,4
+16,3,0,1985,New York Islanders,NYI,5
+1,21,16,1986,Edmonton Oilers,EDM,1
+2,26,15,1986,Philadelphia Flyers,PHI,2
+3,17,10,1986,Montreal Canadiens,MTL,5
+4,16,9,1986,Detroit Red Wings,DET,11
+5,13,7,1986,Quebec Nordiques,QUE,13
+6,13,7,1986,Toronto Maple Leafs,TOR,15
+7,14,7,1986,New York Islanders,NYI,9
+8,10,4,1986,Winnipeg Jets,WPG,6
+9,7,3,1986,Washington Capitals,WSH,7
+10,6,2,1986,Calgary Flames,CGY,3
+11,6,2,1986,Hartford Whalers,HFD,4
+12,6,2,1986,New York Rangers,NYR,12
+13,6,2,1986,St. Louis Blues,STL,10
+14,5,1,1986,Los Angeles Kings,LAK,16
+15,4,0,1986,Chicago Blackhawks,CHI,14
+16,4,0,1986,Boston Bruins,BOS,8
+1,19,16,1987,Edmonton Oilers,EDM,3
+2,23,12,1987,Boston Bruins,BOS,4
+3,20,11,1987,New Jersey Devils,NJD,10
+4,16,9,1987,Detroit Red Wings,DET,5
+5,14,7,1987,Washington Capitals,WSH,7
+6,10,5,1987,St. Louis Blues,STL,13
+7,11,5,1987,Montreal Canadiens,MTL,2
+8,9,4,1987,Calgary Flames,CGY,1
+9,7,3,1987,Philadelphia Flyers,PHI,8
+10,6,2,1987,Buffalo Sabres,BUF,9
+11,6,2,1987,Toronto Maple Leafs,TOR,16
+12,6,2,1987,Hartford Whalers,HFD,11
+13,6,2,1987,New York Islanders,NYI,6
+14,5,1,1987,Los Angeles Kings,LAK,15
+15,5,1,1987,Winnipeg Jets,WPG,12
+16,5,1,1987,Chicago Blackhawks,CHI,14
+1,22,16,1988,Calgary Flames,CGY,1
+2,21,14,1988,Montreal Canadiens,MTL,2
+3,19,10,1988,Philadelphia Flyers,PHI,10
+4,16,9,1988,Chicago Blackhawks,CHI,16
+5,11,7,1988,Pittsburgh Penguins,PIT,6
+6,10,5,1988,Boston Bruins,BOS,5
+7,10,5,1988,St. Louis Blues,STL,13
+8,11,4,1988,Los Angeles Kings,LAK,4
+9,7,3,1988,Vancouver Canucks,VAN,14
+10,7,3,1988,Edmonton Oilers,EDM,7
+11,6,2,1988,Detroit Red Wings,DET,11
+12,6,2,1988,Washington Capitals,WSH,3
+13,5,1,1988,Buffalo Sabres,BUF,8
+14,5,1,1988,Minnesota North Stars,MNS,15
+15,4,0,1988,Hartford Whalers,HFD,12
+16,4,0,1988,New York Rangers,NYR,9
+1,22,16,1989,Edmonton Oilers,EDM,5
+2,21,13,1989,Boston Bruins,BOS,1
+3,20,10,1989,Chicago Blackhawks,CHI,6
+4,15,8,1989,Washington Capitals,WSH,13
+5,12,7,1989,St. Louis Blues,STL,10
+6,10,5,1989,New York Rangers,NYR,9
+7,11,5,1989,Montreal Canadiens,MTL,4
+8,10,4,1989,Los Angeles Kings,LAK,15
+9,7,3,1989,Minnesota North Stars,MNS,14
+10,7,3,1989,Winnipeg Jets,WPG,8
+11,7,3,1989,Hartford Whalers,HFD,7
+12,6,2,1989,Calgary Flames,CGY,2
+13,6,2,1989,Buffalo Sabres,BUF,3
+14,6,2,1989,New Jersey Devils,NJD,11
+15,5,1,1989,Toronto Maple Leafs,TOR,12
+16,5,1,1989,New York Islanders,NYI,16
+1,24,16,1990,Pittsburgh Penguins,PIT,7
+2,23,14,1990,Minnesota North Stars,MNS,15
+3,19,10,1990,Boston Bruins,BOS,5
+4,18,9,1990,Edmonton Oilers,EDM,11
+5,13,7,1990,Montreal Canadiens,MTL,6
+6,12,6,1990,Los Angeles Kings,LAK,3
+7,13,6,1990,St. Louis Blues,STL,2
+8,11,5,1990,Washington Capitals,WSH,9
+9,7,3,1990,New Jersey Devils,NJD,12
+10,7,3,1990,Calgary Flames,CGY,4
+11,7,3,1990,Detroit Red Wings,DET,13
+12,6,2,1990,Hartford Whalers,HFD,14
+13,6,2,1990,Buffalo Sabres,BUF,10
+14,6,2,1990,New York Rangers,NYR,8
+15,6,2,1990,Chicago Blackhawks,CHI,1
+16,6,2,1990,Vancouver Canucks,VAN,16
+1,21,16,1991,Pittsburgh Penguins,PIT,6
+2,18,12,1991,Chicago Blackhawks,CHI,8
+3,15,8,1991,Boston Bruins,BOS,9
+4,16,8,1991,Edmonton Oilers,EDM,12
+5,13,6,1991,Vancouver Canucks,VAN,4
+6,13,6,1991,New York Rangers,NYR,1
+7,11,4,1991,Detroit Red Wings,DET,3
+8,11,4,1991,Montreal Canadiens,MTL,5
+9,7,3,1991,Minnesota North Stars,MNS,15
+10,7,3,1991,Winnipeg Jets,WPG,13
+11,7,3,1991,Buffalo Sabres,BUF,14
+12,7,3,1991,Hartford Whalers,HFD,16
+13,7,3,1991,New Jersey Devils,NJD,7
+14,7,3,1991,Washington Capitals,WSH,2
+15,6,2,1991,St. Louis Blues,STL,11
+16,6,2,1991,Los Angeles Kings,LAK,10
+1,20,16,1992,Montreal Canadiens,MTL,6
+2,24,13,1992,Los Angeles Kings,LAK,11
+3,21,11,1992,Toronto Maple Leafs,TOR,8
+4,18,9,1992,New York Islanders,NYI,13
+5,11,7,1992,St. Louis Blues,STL,16
+6,12,7,1992,Pittsburgh Penguins,PIT,1
+7,12,6,1992,Vancouver Canucks,VAN,7
+8,8,4,1992,Buffalo Sabres,BUF,15
+9,7,3,1992,Detroit Red Wings,DET,5
+10,6,2,1992,Calgary Flames,CGY,9
+11,6,2,1992,Quebec Nordiques,QUE,4
+12,6,2,1992,Washington Capitals,WSH,10
+13,6,2,1992,Winnipeg Jets,WPG,12
+14,5,1,1992,New Jersey Devils,NJD,14
+15,4,0,1992,Boston Bruins,BOS,2
+16,4,0,1992,Chicago Blackhawks,CHI,3
+1,23,16,1993,New York Rangers,NYR,1
+2,24,15,1993,Vancouver Canucks,VAN,14
+3,20,11,1993,New Jersey Devils,NJD,2
+4,18,9,1993,Toronto Maple Leafs,TOR,5
+5,14,7,1993,San Jose Sharks,SJS,16
+6,13,6,1993,Boston Bruins,BOS,6
+7,9,5,1993,Dallas Stars,DAL,7
+8,11,5,1993,Washington Capitals,WSH,12
+9,7,3,1993,Montreal Canadiens,MTL,9
+10,7,3,1993,Buffalo Sabres,BUF,10
+11,7,3,1993,Calgary Flames,CGY,8
+12,7,3,1993,Detroit Red Wings,DET,4
+13,6,2,1993,Pittsburgh Penguins,PIT,3
+14,6,2,1993,Chicago Blackhawks,CHI,13
+15,4,0,1993,St. Louis Blues,STL,11
+16,4,0,1993,New York Islanders,NYI,15
+1,20,16,1994,New Jersey Devils,NJD,9
+2,18,12,1994,Detroit Red Wings,DET,1
+3,15,10,1994,Philadelphia Flyers,PHI,5
+4,16,9,1994,Chicago Blackhawks,CHI,8
+5,12,5,1994,Pittsburgh Penguins,PIT,3
+6,10,4,1994,New York Rangers,NYR,14
+7,11,4,1994,San Jose Sharks,SJS,15
+8,11,4,1994,Vancouver Canucks,VAN,13
+9,7,3,1994,Washington Capitals,WSH,10
+10,7,3,1994,Calgary Flames,CGY,7
+11,7,3,1994,Toronto Maple Leafs,TOR,12
+12,7,3,1994,St. Louis Blues,STL,4
+13,6,2,1994,Quebec Nordiques,QUE,2
+14,5,1,1994,Boston Bruins,BOS,6
+15,5,1,1994,Dallas Stars,DAL,16
+16,5,1,1994,Buffalo Sabres,BUF,11
+1,22,16,1995,Colorado Avalanche,COL,2
+2,22,12,1995,Florida Panthers,FLA,7
+3,18,11,1995,Pittsburgh Penguins,PIT,4
+4,19,10,1995,Detroit Red Wings,DET,1
+5,13,7,1995,St. Louis Blues,STL,13
+6,10,6,1995,Chicago Blackhawks,CHI,6
+7,12,6,1995,Philadelphia Flyers,PHI,3
+8,11,5,1995,New York Rangers,NYR,5
+9,6,2,1995,Vancouver Canucks,VAN,15
+10,6,2,1995,Montreal Canadiens,MTL,9
+11,6,2,1995,Tampa Bay Lightning,TBL,11
+12,6,2,1995,Toronto Maple Leafs,TOR,12
+13,6,2,1995,Winnipeg Jets,WPG,16
+14,6,2,1995,Washington Capitals,WSH,10
+15,5,1,1995,Boston Bruins,BOS,8
+16,4,0,1995,Calgary Flames,CGY,14
+1,20,16,1996,Detroit Red Wings,DET,5
+2,19,12,1996,Philadelphia Flyers,PHI,4
+3,17,10,1996,Colorado Avalanche,COL,1
+4,15,9,1996,New York Rangers,NYR,8
+5,10,5,1996,New Jersey Devils,NJD,3
+6,12,5,1996,Edmonton Oilers,EDM,13
+7,12,5,1996,Buffalo Sabres,BUF,6
+8,11,4,1996,Mighty Ducks of Anaheim,ANA,9
+9,7,3,1996,Dallas Stars,DAL,2
+10,7,3,1996,Phoenix Coyotes,PHX,11
+11,7,3,1996,Ottawa Senators,OTT,15
+12,6,2,1996,Chicago Blackhawks,CHI,14
+13,6,2,1996,St. Louis Blues,STL,12
+14,5,1,1996,Florida Panthers,FLA,7
+15,5,1,1996,Montreal Canadiens,MTL,16
+16,5,1,1996,Pittsburgh Penguins,PIT,10
+1,22,16,1997,Detroit Red Wings,DET,3
+2,21,12,1997,Washington Capitals,WSH,8
+3,15,10,1997,Buffalo Sabres,BUF,10
+4,17,10,1997,Dallas Stars,DAL,1
+5,10,6,1997,St. Louis Blues,STL,4
+6,11,5,1997,Ottawa Senators,OTT,13
+7,12,5,1997,Edmonton Oilers,EDM,15
+8,10,4,1997,Montreal Canadiens,MTL,12
+9,7,3,1997,Colorado Avalanche,COL,7
+10,6,2,1997,San Jose Sharks,SJS,16
+11,6,2,1997,Phoenix Coyotes,PHX,14
+12,6,2,1997,New Jersey Devils,NJD,2
+13,6,2,1997,Boston Bruins,BOS,9
+14,6,2,1997,Pittsburgh Penguins,PIT,5
+15,5,1,1997,Philadelphia Flyers,PHI,6
+16,4,0,1997,Los Angeles Kings,LAK,11
+1,23,16,1998,Dallas Stars,DAL,1
+2,21,14,1998,Buffalo Sabres,BUF,9
+3,19,11,1998,Colorado Avalanche,COL,4
+4,17,9,1998,Toronto Maple Leafs,TOR,5
+5,10,6,1998,Detroit Red Wings,DET,6
+6,12,6,1998,Boston Bruins,BOS,8
+7,13,6,1998,Pittsburgh Penguins,PIT,11
+8,13,6,1998,St. Louis Blues,STL,12
+9,7,3,1998,New Jersey Devils,NJD,2
+10,7,3,1998,Phoenix Coyotes,PHX,10
+11,6,2,1998,Carolina Hurricanes,CAR,13
+12,6,2,1998,Philadelphia Flyers,PHI,7
+13,6,2,1998,San Jose Sharks,SJS,15
+14,4,0,1998,Edmonton Oilers,EDM,16
+15,4,0,1998,Mighty Ducks of Anaheim,ANA,14
+16,4,0,1998,Ottawa Senators,OTT,3
+1,23,16,1999,New Jersey Devils,NJD,4
+2,23,14,1999,Dallas Stars,DAL,6
+3,17,11,1999,Colorado Avalanche,COL,9
+4,18,11,1999,Philadelphia Flyers,PHI,3
+5,11,6,1999,Pittsburgh Penguins,PIT,13
+6,12,6,1999,Toronto Maple Leafs,TOR,7
+7,9,5,1999,Detroit Red Wings,DET,2
+8,12,5,1999,San Jose Sharks,SJS,15
+9,7,3,1999,St. Louis Blues,STL,1
+10,6,2,1999,Ottawa Senators,OTT,10
+11,5,1,1999,Edmonton Oilers,EDM,14
+12,5,1,1999,Phoenix Coyotes,PHX,12
+13,5,1,1999,Buffalo Sabres,BUF,16
+14,5,1,1999,Washington Capitals,WSH,5
+15,4,0,1999,Los Angeles Kings,LAK,11
+16,4,0,1999,Florida Panthers,FLA,8
+1,23,16,2000,Colorado Avalanche,COL,1
+2,25,15,2000,New Jersey Devils,NJD,3
+3,15,9,2000,St. Louis Blues,STL,6
+4,18,9,2000,Pittsburgh Penguins,PIT,9
+5,11,7,2000,Toronto Maple Leafs,TOR,14
+6,13,7,2000,Los Angeles Kings,LAK,13
+7,13,7,2000,Buffalo Sabres,BUF,8
+8,10,4,2000,Dallas Stars,DAL,5
+9,6,2,2000,Edmonton Oilers,EDM,12
+10,6,2,2000,Detroit Red Wings,DET,2
+11,6,2,2000,Philadelphia Flyers,PHI,7
+12,6,2,2000,Carolina Hurricanes,CAR,16
+13,6,2,2000,San Jose Sharks,SJS,11
+14,6,2,2000,Washington Capitals,WSH,10
+15,4,0,2000,Vancouver Canucks,VAN,15
+16,4,0,2000,Ottawa Senators,OTT,4
+1,23,16,2001,Detroit Red Wings,DET,1
+2,23,13,2001,Carolina Hurricanes,CAR,15
+3,21,11,2001,Colorado Avalanche,COL,4
+4,20,10,2001,Toronto Maple Leafs,TOR,3
+5,12,7,2001,Ottawa Senators,OTT,14
+6,12,7,2001,San Jose Sharks,SJS,5
+7,12,6,2001,Montreal Canadiens,MTL,16
+8,10,5,2001,St. Louis Blues,STL,6
+9,7,3,2001,Los Angeles Kings,LAK,12
+10,7,3,2001,New York Islanders,NYI,8
+11,6,2,2001,New Jersey Devils,NJD,10
+12,6,2,2001,Vancouver Canucks,VAN,13
+13,6,2,2001,Boston Bruins,BOS,2
+14,5,1,2001,Philadelphia Flyers,PHI,7
+15,5,1,2001,Phoenix Coyotes,PHX,11
+16,5,1,2001,Chicago Blackhawks,CHI,9
+1,24,16,2002,New Jersey Devils,NJD,4
+2,21,15,2002,Mighty Ducks of Anaheim,ANA,11
+3,18,11,2002,Ottawa Senators,OTT,1
+4,18,8,2002,Minnesota Wild,MIN,10
+5,14,7,2002,Vancouver Canucks,VAN,7
+6,12,6,2002,Dallas Stars,DAL,2
+7,13,6,2002,Philadelphia Flyers,PHI,5
+8,11,5,2002,Tampa Bay Lightning,TBL,12
+9,7,3,2002,Toronto Maple Leafs,TOR,9
+10,7,3,2002,Colorado Avalanche,COL,6
+11,7,3,2002,St. Louis Blues,STL,8
+12,6,2,2002,Edmonton Oilers,EDM,14
+13,6,2,2002,Washington Capitals,WSH,13
+14,5,1,2002,Boston Bruins,BOS,15
+15,5,1,2002,New York Islanders,NYI,16
+16,4,0,2002,Detroit Red Wings,DET,3
+1,23,16,2003,Tampa Bay Lightning,TBL,2
+2,26,15,2003,Calgary Flames,CGY,12
+3,18,11,2003,Philadelphia Flyers,PHI,8
+4,17,10,2003,San Jose Sharks,SJS,3
+5,11,6,2003,Colorado Avalanche,COL,10
+6,12,6,2003,Detroit Red Wings,DET,1
+7,13,6,2003,Toronto Maple Leafs,TOR,5
+8,11,4,2003,Montreal Canadiens,MTL,13
+9,7,3,2003,Boston Bruins,BOS,4
+10,7,3,2003,Vancouver Canucks,VAN,7
+11,7,3,2003,Ottawa Senators,OTT,6
+12,6,2,2003,Nashville Predators,NSH,16
+13,5,1,2003,Dallas Stars,DAL,11
+14,5,1,2003,New Jersey Devils,NJD,9
+15,5,1,2003,St. Louis Blues,STL,14
+16,5,1,2003,New York Islanders,NYI,15
+1,25,16,2005,Carolina Hurricanes,CAR,4
+2,24,15,2005,Edmonton Oilers,EDM,14
+3,18,11,2005,Buffalo Sabres,BUF,5
+4,16,9,2005,Mighty Ducks of Anaheim,ANA,12
+5,11,6,2005,San Jose Sharks,SJS,11
+6,9,5,2005,New Jersey Devils,NJD,8
+7,10,5,2005,Ottawa Senators,OTT,2
+8,9,4,2005,Colorado Avalanche,COL,13
+9,7,3,2005,Calgary Flames,CGY,7
+10,6,2,2005,Detroit Red Wings,DET,1
+11,6,2,2005,Philadelphia Flyers,PHI,9
+12,6,2,2005,Montreal Canadiens,MTL,15
+13,5,1,2005,Nashville Predators,NSH,6
+14,5,1,2005,Tampa Bay Lightning,TBL,16
+15,5,1,2005,Dallas Stars,DAL,3
+16,4,0,2005,New York Rangers,NYR,10
+1,21,16,2006,Anaheim Ducks,ANA,4
+2,20,13,2006,Ottawa Senators,OTT,9
+3,18,10,2006,Detroit Red Wings,DET,2
+4,16,9,2006,Buffalo Sabres,BUF,1
+5,10,6,2006,New York Rangers,NYR,14
+6,11,6,2006,San Jose Sharks,SJS,5
+7,11,5,2006,New Jersey Devils,NJD,7
+8,12,5,2006,Vancouver Canucks,VAN,8
+9,7,3,2006,Dallas Stars,DAL,6
+10,6,2,2006,Calgary Flames,CGY,13
+11,6,2,2006,Tampa Bay Lightning,TBL,15
+12,5,1,2006,Minnesota Wild,MIN,11
+13,5,1,2006,Nashville Predators,NSH,3
+14,5,1,2006,Pittsburgh Penguins,PIT,10
+15,5,1,2006,New York Islanders,NYI,16
+16,4,0,2006,Atlanta Thrashers,ATL,12
+1,22,16,2007,Detroit Red Wings,DET,1
+2,20,14,2007,Pittsburgh Penguins,PIT,4
+3,18,10,2007,Dallas Stars,DAL,8
+4,17,9,2007,Philadelphia Flyers,PHI,11
+5,13,6,2007,San Jose Sharks,SJS,2
+6,10,5,2007,New York Rangers,NYR,9
+7,12,5,2007,Montreal Canadiens,MTL,3
+8,10,4,2007,Colorado Avalanche,COL,10
+9,7,3,2007,Calgary Flames,CGY,14
+10,7,3,2007,Boston Bruins,BOS,15
+11,7,3,2007,Washington Capitals,WSH,12
+12,6,2,2007,Minnesota Wild,MIN,7
+13,6,2,2007,Anaheim Ducks,ANA,5
+14,6,2,2007,Nashville Predators,NSH,16
+15,5,1,2007,New Jersey Devils,NJD,6
+16,4,0,2007,Ottawa Senators,OTT,13
+1,24,16,2008,Pittsburgh Penguins,PIT,8
+2,23,15,2008,Detroit Red Wings,DET,3
+3,17,9,2008,Chicago Blackhawks,CHI,6
+4,18,8,2008,Carolina Hurricanes,CAR,11
+5,11,7,2008,Boston Bruins,BOS,2
+6,13,7,2008,Anaheim Ducks,ANA,16
+7,14,7,2008,Washington Capitals,WSH,4
+8,10,6,2008,Vancouver Canucks,VAN,7
+9,7,3,2008,New Jersey Devils,NJD,5
+10,7,3,2008,New York Rangers,NYR,12
+11,6,2,2008,Philadelphia Flyers,PHI,9
+12,6,2,2008,Calgary Flames,CGY,10
+13,6,2,2008,San Jose Sharks,SJS,1
+14,4,0,2008,St. Louis Blues,STL,14
+15,4,0,2008,Montreal Canadiens,MTL,13
+16,4,0,2008,Columbus Blue Jackets,CBJ,15
+1,22,16,2009,Chicago Blackhawks,CHI,3
+2,23,14,2009,Philadelphia Flyers,PHI,15
+3,19,9,2009,Montreal Canadiens,MTL,16
+4,15,8,2009,San Jose Sharks,SJS,2
+5,13,7,2009,Pittsburgh Penguins,PIT,8
+6,13,7,2009,Boston Bruins,BOS,14
+7,12,6,2009,Vancouver Canucks,VAN,5
+8,12,5,2009,Detroit Red Wings,DET,7
+9,7,3,2009,Phoenix Coyotes,PHX,4
+10,7,3,2009,Washington Capitals,WSH,1
+11,6,2,2009,Ottawa Senators,OTT,13
+12,6,2,2009,Colorado Avalanche,COL,12
+13,6,2,2009,Buffalo Sabres,BUF,11
+14,6,2,2009,Los Angeles Kings,LAK,9
+15,6,2,2009,Nashville Predators,NSH,10
+16,5,1,2009,New Jersey Devils,NJD,6
+1,25,16,2010,Boston Bruins,BOS,7
+2,25,15,2010,Vancouver Canucks,VAN,1
+3,18,11,2010,Tampa Bay Lightning,TBL,8
+4,18,9,2010,San Jose Sharks,SJS,5
+5,11,7,2010,Detroit Red Wings,DET,6
+6,12,6,2010,Nashville Predators,NSH,10
+7,9,4,2010,Washington Capitals,WSH,2
+8,11,4,2010,Philadelphia Flyers,PHI,3
+9,7,3,2010,Pittsburgh Penguins,PIT,4
+10,7,3,2010,Chicago Blackhawks,CHI,13
+11,7,3,2010,Montreal Canadiens,MTL,14
+12,7,3,2010,Buffalo Sabres,BUF,15
+13,6,2,2010,Anaheim Ducks,ANA,9
+14,6,2,2010,Los Angeles Kings,LAK,12
+15,5,1,2010,New York Rangers,NYR,16
+16,4,0,2010,Phoenix Coyotes,PHX,11
+1,20,16,2011,Los Angeles Kings,LAK,13
+2,24,14,2011,New Jersey Devils,NJD,9
+3,20,10,2011,New York Rangers,NYR,2
+4,16,9,2011,Phoenix Coyotes,PHX,11
+5,14,7,2011,Washington Capitals,WSH,15
+6,10,5,2011,Nashville Predators,NSH,5
+7,11,5,2011,Philadelphia Flyers,PHI,6
+8,9,4,2011,St. Louis Blues,STL,3
+9,7,3,2011,Boston Bruins,BOS,7
+10,7,3,2011,Ottawa Senators,OTT,16
+11,7,3,2011,Florida Panthers,FLA,14
+12,6,2,2011,Pittsburgh Penguins,PIT,4
+13,6,2,2011,Chicago Blackhawks,CHI,10
+14,5,1,2011,Detroit Red Wings,DET,8
+15,5,1,2011,Vancouver Canucks,VAN,1
+16,5,1,2011,San Jose Sharks,SJS,12
+1,23,16,2012,Chicago Blackhawks,CHI,1
+2,22,14,2012,Boston Bruins,BOS,5
+3,18,9,2012,Los Angeles Kings,LAK,7
+4,15,8,2012,Pittsburgh Penguins,PIT,2
+5,11,7,2012,San Jose Sharks,SJS,11
+6,14,7,2012,Detroit Red Wings,DET,13
+7,10,5,2012,Ottawa Senators,OTT,14
+8,12,5,2012,New York Rangers,NYR,12
+9,7,3,2012,Anaheim Ducks,ANA,3
+10,7,3,2012,Toronto Maple Leafs,TOR,9
+11,7,3,2012,Washington Capitals,WSH,10
+12,6,2,2012,St. Louis Blues,STL,6
+13,6,2,2012,New York Islanders,NYI,16
+14,5,1,2012,Minnesota Wild,MIN,15
+15,5,1,2012,Montreal Canadiens,MTL,4
+16,4,0,2012,Vancouver Canucks,VAN,8
+1,26,16,2013,Los Angeles Kings,LAK,10
+2,25,13,2013,New York Rangers,NYR,12
+3,19,11,2013,Chicago Blackhawks,CHI,7
+4,17,10,2013,Montreal Canadiens,MTL,9
+5,12,7,2013,Boston Bruins,BOS,1
+6,13,7,2013,Anaheim Ducks,ANA,2
+7,13,7,2013,Pittsburgh Penguins,PIT,6
+8,13,6,2013,Minnesota Wild,MIN,11
+9,7,3,2013,Colorado Avalanche,COL,3
+10,7,3,2013,Philadelphia Flyers,PHI,13
+11,7,3,2013,San Jose Sharks,SJS,5
+12,6,2,2013,Dallas Stars,DAL,16
+13,6,2,2013,Columbus Blue Jackets,CBJ,14
+14,6,2,2013,St. Louis Blues,STL,4
+15,5,1,2013,Detroit Red Wings,DET,15
+16,4,0,2013,Tampa Bay Lightning,TBL,8
+1,23,16,2014,Chicago Blackhawks,CHI,7
+2,26,14,2014,Tampa Bay Lightning,TBL,5
+3,16,11,2014,Anaheim Ducks,ANA,3
+4,19,11,2014,New York Rangers,NYR,1
+5,14,7,2014,Washington Capitals,WSH,9
+6,12,6,2014,Montreal Canadiens,MTL,2
+7,11,5,2014,Calgary Flames,CGY,16
+8,10,4,2014,Minnesota Wild,MIN,11
+9,7,3,2014,New York Islanders,NYI,10
+10,7,3,2014,Detroit Red Wings,DET,12
+11,6,2,2014,Ottawa Senators,OTT,13
+12,6,2,2014,Nashville Predators,NSH,6
+13,6,2,2014,Vancouver Canucks,VAN,8
+14,6,2,2014,St. Louis Blues,STL,4
+15,5,1,2014,Pittsburgh Penguins,PIT,15
+16,4,0,2014,Winnipeg Jets,WPG,14
+1,24,16,2015,Pittsburgh Penguins,PIT,4
+2,24,14,2015,San Jose Sharks,SJS,11
+3,17,11,2015,Tampa Bay Lightning,TBL,12
+4,20,10,2015,St. Louis Blues,STL,3
+5,13,7,2015,Dallas Stars,DAL,2
+6,14,7,2015,Nashville Predators,NSH,14
+7,12,6,2015,Washington Capitals,WSH,1
+8,11,5,2015,New York Islanders,NYI,10
+9,7,3,2015,Chicago Blackhawks,CHI,5
+10,7,3,2015,Anaheim Ducks,ANA,6
+11,6,2,2015,Minnesota Wild,MIN,16
+12,6,2,2015,Florida Panthers,FLA,7
+13,6,2,2015,Philadelphia Flyers,PHI,13
+14,5,1,2015,New York Rangers,NYR,9
+15,5,1,2015,Detroit Red Wings,DET,15
+16,5,1,2015,Los Angeles Kings,LAK,8
+1,25,16,2016,Pittsburgh Penguins,PIT,2
+2,22,14,2016,Nashville Predators,NSH,16
+3,19,11,2016,Ottawa Senators,OTT,12
+4,17,10,2016,Anaheim Ducks,ANA,6
+5,13,7,2016,Edmonton Oilers,EDM,8
+6,13,7,2016,Washington Capitals,WSH,1
+7,11,6,2016,St. Louis Blues,STL,10
+8,12,6,2016,New York Rangers,NYR,9
+9,6,2,2016,San Jose Sharks,SJS,11
+10,6,2,2016,Montreal Canadiens,MTL,7
+11,6,2,2016,Boston Bruins,BOS,13
+12,6,2,2016,Toronto Maple Leafs,TOR,14
+13,5,1,2016,Minnesota Wild,MIN,5
+14,5,1,2016,Columbus Blue Jackets,CBJ,4
+15,4,0,2016,Calgary Flames,CGY,15
+16,4,0,2016,Chicago Blackhawks,CHI,3
+1,24,16,2017,Washington Capitals,WSH,6
+2,20,13,2017,Vegas Golden Knights,VGK,5
+3,17,11,2017,Tampa Bay Lightning,TBL,3
+4,17,9,2017,Winnipeg Jets,WPG,2
+5,13,7,2017,Nashville Predators,NSH,1
+6,10,6,2017,San Jose Sharks,SJS,11
+7,12,6,2017,Pittsburgh Penguins,PIT,10
+8,12,5,2017,Boston Bruins,BOS,4
+9,7,3,2017,Toronto Maple Leafs,TOR,7
+10,6,2,2017,Philadelphia Flyers,PHI,13
+11,6,2,2017,Colorado Avalanche,COL,16
+12,6,2,2017,Columbus Blue Jackets,CBJ,14
+13,5,1,2017,Minnesota Wild,MIN,8
+14,5,1,2017,New Jersey Devils,NJD,15
+15,4,0,2017,Los Angeles Kings,LAK,12
+16,4,0,2017,Anaheim Ducks,ANA,9
+1,26,16,2018,St. Louis Blues,STL,12
+2,24,15,2018,Boston Bruins,BOS,3
+3,20,10,2018,San Jose Sharks,SJS,6
+4,15,8,2018,Carolina Hurricanes,CAR,11
+5,12,7,2018,Colorado Avalanche,COL,16
+6,13,7,2018,Dallas Stars,DAL,14
+7,10,6,2018,Columbus Blue Jackets,CBJ,13
+8,8,4,2018,New York Islanders,NYI,5
+9,7,3,2018,Vegas Golden Knights,VGK,15
+10,7,3,2018,Toronto Maple Leafs,TOR,7
+11,7,3,2018,Washington Capitals,WSH,4
+12,6,2,2018,Nashville Predators,NSH,8
+13,6,2,2018,Winnipeg Jets,WPG,10
+14,5,1,2018,Calgary Flames,CGY,2
+15,4,0,2018,Pittsburgh Penguins,PIT,9
+16,4,0,2018,Tampa Bay Lightning,TBL,1
+1,22,16,2019,Tampa Bay Lightning,TBL,4
+2,24,14,2019,Dallas Stars,DAL,9
+3,18,10,2019,New York Islanders,NYI,10
+4,17,9,2019,Vegas Golden Knights,VGK,7
+5,12,7,2019,Colorado Avalanche,COL,3
+6,13,7,2019,Philadelphia Flyers,PHI,6
+7,13,7,2019,Vancouver Canucks,VAN,12
+8,10,5,2019,Boston Bruins,BOS,1
+9,6,2,2019,Calgary Flames,CGY,13
+10,6,2,2019,Montreal Canadiens,MTL,16
+11,6,2,2019,St. Louis Blues,STL,2
+12,5,1,2019,Arizona Coyotes,ARI,14
+13,5,1,2019,Carolina Hurricanes,CAR,8
+14,5,1,2019,Chicago Blackhawks,CHI,15
+15,5,1,2019,Columbus Blue Jackets,CBJ,11
+16,5,1,2019,Washington Capitals,WSH,5
+1,23,16,2020,Tampa Bay Lightning,TBL,8
+2,22,13,2020,Montreal Canadiens,MTL,16
+3,19,11,2020,New York Islanders,NYI,12
+4,19,10,2020,Vegas Golden Knights,VGK,2
+5,10,6,2020,Colorado Avalanche,COL,1
+6,11,6,2020,Boston Bruins,BOS,10
+7,11,5,2020,Carolina Hurricanes,CAR,3
+8,8,4,2020,Winnipeg Jets,WPG,14
+9,7,3,2020,Minnesota Wild,MIN,9
+10,7,3,2020,Toronto Maple Leafs,TOR,6
+11,6,2,2020,Florida Panthers,FLA,4
+12,6,2,2020,Pittsburgh Penguins,PIT,5
+13,6,2,2020,Nashville Predators,NSH,13
+14,5,1,2020,Washington Capitals,WSH,7
+15,4,0,2020,St. Louis Blues,STL,15
+16,4,0,2020,Edmonton Oilers,EDM,11
+1,19,15,2021,Colorado Avalanche,COL,2
+2,22,14,2021,Tampa Bay Lightning,TBL,8
+3,20,10,2021,New York Rangers,NYR,7
+4,16,8,2021,Edmonton Oilers,EDM,11
+5,14,7,2021,Carolina Hurricanes,CAR,3
+6,12,6,2021,St. Louis Blues,STL,9
+7,12,5,2021,Calgary Flames,CGY,6
+8,10,4,2021,Florida Panthers,FLA,1
+9,7,3,2021,Boston Bruins,BOS,10
+10,7,3,2021,Los Angeles Kings,LAK,14
+11,7,3,2021,Toronto Maple Leafs,TOR,4
+12,7,3,2021,Dallas Stars,DAL,15
+13,7,3,2021,Pittsburgh Penguins,PIT,12
+14,6,2,2021,Minnesota Wild,MIN,5
+15,6,2,2021,Washington Capitals,WSH,13
+16,4,0,2021,Nashville Predators,NSH,16
