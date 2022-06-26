@@ -1,2 +1,2 @@
-# presidents_trophy_curse
+# nhl_presidents_trophy_curse
 Analysis of NHL Presidents Trophy and Stanley Cup winners
